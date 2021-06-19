@@ -1,0 +1,3 @@
+[submodule "misc-go"]
+	path = misc-go
+	url = https://github.com/hskwakr/misc-go.git
