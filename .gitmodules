@@ -1,6 +1,0 @@
-[submodule "misc-go"]
-	path = misc-go
-	url = https://github.com/hskwakr/misc-go.git
-[submodule "misc-csharp"]
-	path = misc-csharp
-	url = https://github.com/hskwakr/misc-csharp.git
